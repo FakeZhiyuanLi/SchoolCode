@@ -1,5 +1,3 @@
-import sys
-
 def add_modulo(n):
     send_total = []
     for i in range(0, n):
